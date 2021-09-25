@@ -1,0 +1,14 @@
+D:\Aulas\CSharp\Fundamentos C#\ConsoleCSharp\ConsoleCSharp\bin\Debug\netcoreapp3.1\ConsoleCSharp.exe
+D:\Aulas\CSharp\Fundamentos C#\ConsoleCSharp\ConsoleCSharp\bin\Debug\netcoreapp3.1\ConsoleCSharp.deps.json
+D:\Aulas\CSharp\Fundamentos C#\ConsoleCSharp\ConsoleCSharp\bin\Debug\netcoreapp3.1\ConsoleCSharp.runtimeconfig.json
+D:\Aulas\CSharp\Fundamentos C#\ConsoleCSharp\ConsoleCSharp\bin\Debug\netcoreapp3.1\ConsoleCSharp.runtimeconfig.dev.json
+D:\Aulas\CSharp\Fundamentos C#\ConsoleCSharp\ConsoleCSharp\bin\Debug\netcoreapp3.1\ConsoleCSharp.dll
+D:\Aulas\CSharp\Fundamentos C#\ConsoleCSharp\ConsoleCSharp\bin\Debug\netcoreapp3.1\ConsoleCSharp.pdb
+D:\Aulas\CSharp\Fundamentos C#\ConsoleCSharp\ConsoleCSharp\obj\Debug\netcoreapp3.1\ConsoleCSharp.csproj.AssemblyReference.cache
+D:\Aulas\CSharp\Fundamentos C#\ConsoleCSharp\ConsoleCSharp\obj\Debug\netcoreapp3.1\ConsoleCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aulas\CSharp\Fundamentos C#\ConsoleCSharp\ConsoleCSharp\obj\Debug\netcoreapp3.1\ConsoleCSharp.AssemblyInfoInputs.cache
+D:\Aulas\CSharp\Fundamentos C#\ConsoleCSharp\ConsoleCSharp\obj\Debug\netcoreapp3.1\ConsoleCSharp.AssemblyInfo.cs
+D:\Aulas\CSharp\Fundamentos C#\ConsoleCSharp\ConsoleCSharp\obj\Debug\netcoreapp3.1\ConsoleCSharp.csproj.CoreCompileInputs.cache
+D:\Aulas\CSharp\Fundamentos C#\ConsoleCSharp\ConsoleCSharp\obj\Debug\netcoreapp3.1\ConsoleCSharp.dll
+D:\Aulas\CSharp\Fundamentos C#\ConsoleCSharp\ConsoleCSharp\obj\Debug\netcoreapp3.1\ConsoleCSharp.pdb
+D:\Aulas\CSharp\Fundamentos C#\ConsoleCSharp\ConsoleCSharp\obj\Debug\netcoreapp3.1\ConsoleCSharp.genruntimeconfig.cache
